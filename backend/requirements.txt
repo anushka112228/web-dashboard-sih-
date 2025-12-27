@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+pydantic
+geoalchemy2
+python-dotenv
+databases
+typing_extensions
+httpx
+pytest
+pytest-asyncio
+shapely
+pydantic-settings
+pandas
